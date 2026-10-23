@@ -1,0 +1,19 @@
+version: "3.8"
+
+services:
+  level-studio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: lolb-level-studio:latest
+    container_name: lolb-level-studio
+    ports:
+      - "${PORT:-8080}:8080"
+    environment:
+      - PORT=8080
+      - PYTHONUNBUFFERED=1
+      - DATA_DIR=/app/data
+    volumes:
+      # Map host ./data directory so saved levels persist on host
+      - ./data:/app/data
+    restart: unless-stopped

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "Coins",
+    "name": "Монетки",
+    "category": "1-cell",
+    "color": "#eab308",
+    "cells": [{ "x": 0, "y": 0 }]
+  },
+  {
+    "id": "InkBottle",
+    "name": "Чернильница",
+    "category": "1-cell",
+    "color": "#3b82f6",
+    "cells": [{ "x": 0, "y": 0 }]
+  },
+  {
+    "id": "Feather",
+    "name": "Перо",
+    "category": "2-cell",
+    "color": "#a855f7",
+    "cells": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }]
+  },
+  {
+    "id": "Mail",
+    "name": "Письмо",
+    "category": "2-cell",
+    "color": "#f97316",
+    "cells": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }]
+  },
+  {
+    "id": "Keys",
+    "name": "Ключи",
+    "category": "3-cell",
+    "color": "#14b8a6",
+    "cells": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }]
+  },
+  {
+    "id": "Branch",
+    "name": "Ветка бамбука",
+    "category": "3-cell",
+    "color": "#22c55e",
+    "cells": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }]
+  },
+  {
+    "id": "Fluete",
+    "name": "Флейта",
+    "category": "3-cell",
+    "color": "#06b6d4",
+    "cells": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 2, "y": 0 }]
+  },
+  {
+    "id": "Scroll",
+    "name": "Свиток",
+    "category": "3-cell",
+    "color": "#f59e0b",
+    "cells": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 2, "y": 0 }]
+  },
+  {
+    "id": "Honey",
+    "name": "Горшок мёда",
+    "category": "4-cell",
+    "color": "#fbbf24",
+    "cells": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 0 }, { "x": 1, "y": 1 }]
+  },
+  {
+    "id": "Compass",
+    "name": "Компас",
+    "category": "4-cell",
+    "color": "#6366f1",
+    "cells": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 0 }, { "x": 1, "y": 1 }]
+  },
+  {
+    "id": "Amulet",
+    "name": "Амулет (Т-блок)",
+    "category": "4-cell",
+    "color": "#ec4899",
+    "cells": [{ "x": 0, "y": 1 }, { "x": 1, "y": 1 }, { "x": 1, "y": 0 }, { "x": 2, "y": 1 }]
+  },
+  {
+    "id": "1xx3",
+    "name": "Уголок (L-блок)",
+    "category": "4-cell",
+    "color": "#8b5cf6",
+    "cells": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }, { "x": 2, "y": 1 }]
+  },
+  {
+    "id": "Book",
+    "name": "Книга фолиант",
+    "category": "6-cell",
+    "color": "#ef4444",
+    "cells": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }, { "x": 0, "y": 2 }, { "x": 1, "y": 2 }]
+  },
+  {
+    "id": "Map",
+    "name": "Карта мира",
+    "category": "6-cell",
+    "color": "#10b981",
+    "cells": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }, { "x": 0, "y": 2 }, { "x": 1, "y": 2 }]
+  }
+]

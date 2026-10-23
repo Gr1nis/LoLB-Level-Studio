@@ -1,0 +1,48 @@
+{
+  "rules": [
+    {
+      "id": "TargetSlot",
+      "name": "Целевой слот (TargetSlot)",
+      "description": "Книги должны быть расставлены по строгим слотам targetSlotIndex."
+    },
+    {
+      "id": "ColorMatch",
+      "name": "Один цвет на полке (ColorMatch)",
+      "description": "Все книги на полке должны быть одного цвета."
+    },
+    {
+      "id": "HeightDescending",
+      "name": "Лесенка вниз (HeightDescending)",
+      "description": "Книги упорядочены по убыванию высоты слева направо."
+    },
+    {
+      "id": "HeightAscending",
+      "name": "Лесенка вверх (HeightAscending)",
+      "description": "Книги упорядочены по возрастанию высоты слева направо."
+    },
+    {
+      "id": "HeightOrder",
+      "name": "Любая лесенка (HeightOrder)",
+      "description": "Книги монотонно убывают или возрастают по высоте."
+    }
+  ],
+  "bookColors": [
+    { "id": "blue", "name": "Синий", "color": "#38bdf8" },
+    { "id": "red", "name": "Красный", "color": "#f87171" },
+    { "id": "orange", "name": "Оранжевый", "color": "#fb923c" },
+    { "id": "black", "name": "Черный / Графит", "color": "#475569" }
+  ],
+  "bookSizes": [
+    { "sizeIndex": 0, "itemId": "6", "heightPx": 160, "name": "Размер XL (6)" },
+    { "sizeIndex": 1, "itemId": "5", "heightPx": 135, "name": "Размер L (5)" },
+    { "sizeIndex": 2, "itemId": "4", "heightPx": 110, "name": "Размер M (4)" },
+    { "sizeIndex": 3, "itemId": "3", "heightPx": 85, "name": "Размер S (3)" },
+    { "sizeIndex": 4, "itemId": "2", "heightPx": 60, "name": "Размер XS (2)" }
+  ],
+  "shelfPrefabs": [
+    { "id": "shelf", "name": "Обычная полка (shelf)" },
+    { "id": "upshelf", "name": "Верхняя полка (upshelf)" },
+    { "id": "midshelf", "name": "Средняя полка (midshelf)" },
+    { "id": "downshelf", "name": "Нижняя полка (downshelf)" }
+  ]
+}

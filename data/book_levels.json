@@ -1,0 +1,252 @@
+{
+    "levels": [
+        {
+            "id": 1,
+            "tutorialId": "",
+            "shelves": [
+                {
+                    "shelfId": "shelf_1",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": 0 },
+                    "staticSlots": [
+                        { "index": 0, "isStatic": true }
+                    ],
+                    "rules": [ "TargetSlot" ]
+                }
+            ],
+            "placements": [
+                { "itemId": "6", "spriteId": "blue0", "shelfId": "shelf_1", "targetSlotIndex": 0 },
+                { "itemId": "5", "spriteId": "black0", "shelfId": "shelf_1", "targetSlotIndex": 1 },
+                { "itemId": "4", "spriteId": "orange1", "shelfId": "shelf_1", "targetSlotIndex": 2 }
+            ]
+        },
+        {
+            "id": 2,
+            "tutorialId": "",
+            "shelves": [
+                {
+                    "shelfId": "shelf_1",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": 0 },
+                    "staticSlots": [],
+                    "rules": [ "TargetSlot" ]
+                }
+            ],
+            "placements": [
+                { "itemId": "4", "spriteId": "red0", "shelfId": "shelf_1", "targetSlotIndex": 0 },
+                { "itemId": "5", "spriteId": "red1", "shelfId": "shelf_1", "targetSlotIndex": 1 },
+                { "itemId": "6", "spriteId": "red2", "shelfId": "shelf_1", "targetSlotIndex": 2 }
+            ]
+        },
+        {
+            "id": 3,
+            "tutorialId": "",
+            "shelves": [
+                {
+                    "shelfId": "shelf_1",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": 0 },
+                    "staticSlots": [],
+                    "rules": [ "TargetSlot" ]
+                }
+            ],
+            "placements": [
+                { "itemId": "2", "spriteId": "blue4", "shelfId": "shelf_1", "targetSlotIndex": 0 },
+                { "itemId": "4", "spriteId": "blue2", "shelfId": "shelf_1", "targetSlotIndex": 1 },
+                { "itemId": "6", "spriteId": "blue0", "shelfId": "shelf_1", "targetSlotIndex": 2 }
+            ]
+        },
+        {
+            "id": 4,
+            "tutorialId": "",
+            "shelves": [
+                {
+                    "shelfId": "shelf_1",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": 0 },
+                    "staticSlots": [
+                        { "index": 0, "isStatic": true }
+                    ],
+                    "rules": [ "TargetSlot" ]
+                }
+            ],
+            "placements": [
+                { "itemId": "6", "spriteId": "orange0", "shelfId": "shelf_1", "targetSlotIndex": 0 },
+                { "itemId": "5", "spriteId": "orange1", "shelfId": "shelf_1", "targetSlotIndex": 1 },
+                { "itemId": "4", "spriteId": "orange2", "shelfId": "shelf_1", "targetSlotIndex": 2 },
+                { "itemId": "3", "spriteId": "orange3", "shelfId": "shelf_1", "targetSlotIndex": 3 }
+            ]
+        },
+        {
+            "id": 5,
+            "tutorialId": "",
+            "shelves": [
+                {
+                    "shelfId": "shelf_1",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": 0 },
+                    "staticSlots": [],
+                    "rules": [ "TargetSlot" ]
+                }
+            ],
+            "placements": [
+                { "itemId": "3", "spriteId": "black3", "shelfId": "shelf_1", "targetSlotIndex": 0 },
+                { "itemId": "4", "spriteId": "black2", "shelfId": "shelf_1", "targetSlotIndex": 1 },
+                { "itemId": "5", "spriteId": "black1", "shelfId": "shelf_1", "targetSlotIndex": 2 },
+                { "itemId": "6", "spriteId": "black0", "shelfId": "shelf_1", "targetSlotIndex": 3 }
+            ]
+        },
+        {
+            "id": 6,
+            "tutorialId": "",
+            "shelves": [
+                {
+                    "shelfId": "shelf_1",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": 140 },
+                    "staticSlots": [],
+                    "rules": [ "TargetSlot" ]
+                },
+                {
+                    "shelfId": "shelf_2",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": -140 },
+                    "staticSlots": [],
+                    "rules": [ "TargetSlot" ]
+                }
+            ],
+            "placements": [
+                { "itemId": "6", "spriteId": "blue0", "shelfId": "shelf_1", "targetSlotIndex": 0 },
+                { "itemId": "5", "spriteId": "blue1", "shelfId": "shelf_1", "targetSlotIndex": 1 },
+                { "itemId": "4", "spriteId": "blue2", "shelfId": "shelf_1", "targetSlotIndex": 2 },
+                { "itemId": "6", "spriteId": "orange0", "shelfId": "shelf_2", "targetSlotIndex": 0 },
+                { "itemId": "5", "spriteId": "orange1", "shelfId": "shelf_2", "targetSlotIndex": 1 },
+                { "itemId": "4", "spriteId": "orange2", "shelfId": "shelf_2", "targetSlotIndex": 2 }
+            ]
+        },
+        {
+            "id": 7,
+            "tutorialId": "",
+            "shelves": [
+                {
+                    "shelfId": "shelf_1",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": 140 },
+                    "staticSlots": [
+                        { "index": 0, "isStatic": true }
+                    ],
+                    "rules": [ "TargetSlot" ]
+                },
+                {
+                    "shelfId": "shelf_2",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": -140 },
+                    "staticSlots": [
+                        { "index": 0, "isStatic": true }
+                    ],
+                    "rules": [ "TargetSlot" ]
+                }
+            ],
+            "placements": [
+                { "itemId": "5", "spriteId": "red1", "shelfId": "shelf_1", "targetSlotIndex": 0 },
+                { "itemId": "4", "spriteId": "red2", "shelfId": "shelf_1", "targetSlotIndex": 1 },
+                { "itemId": "3", "spriteId": "red3", "shelfId": "shelf_1", "targetSlotIndex": 2 },
+                { "itemId": "5", "spriteId": "black1", "shelfId": "shelf_2", "targetSlotIndex": 0 },
+                { "itemId": "4", "spriteId": "black2", "shelfId": "shelf_2", "targetSlotIndex": 1 },
+                { "itemId": "3", "spriteId": "black3", "shelfId": "shelf_2", "targetSlotIndex": 2 }
+            ]
+        },
+        {
+            "id": 8,
+            "tutorialId": "",
+            "shelves": [
+                {
+                    "shelfId": "shelf_1",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": 140 },
+                    "staticSlots": [],
+                    "rules": [ "TargetSlot" ]
+                },
+                {
+                    "shelfId": "shelf_2",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": -140 },
+                    "staticSlots": [],
+                    "rules": [ "TargetSlot" ]
+                }
+            ],
+            "placements": [
+                { "itemId": "4", "spriteId": "blue2", "shelfId": "shelf_1", "targetSlotIndex": 0 },
+                { "itemId": "5", "spriteId": "blue1", "shelfId": "shelf_1", "targetSlotIndex": 1 },
+                { "itemId": "6", "spriteId": "blue0", "shelfId": "shelf_1", "targetSlotIndex": 2 },
+                { "itemId": "6", "spriteId": "orange0", "shelfId": "shelf_2", "targetSlotIndex": 0 },
+                { "itemId": "5", "spriteId": "orange1", "shelfId": "shelf_2", "targetSlotIndex": 1 },
+                { "itemId": "4", "spriteId": "orange2", "shelfId": "shelf_2", "targetSlotIndex": 2 }
+            ]
+        },
+        {
+            "id": 9,
+            "tutorialId": "",
+            "shelves": [
+                {
+                    "shelfId": "shelf_1",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": 140 },
+                    "staticSlots": [],
+                    "rules": [ "TargetSlot" ]
+                },
+                {
+                    "shelfId": "shelf_2",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": -140 },
+                    "staticSlots": [],
+                    "rules": [ "TargetSlot" ]
+                }
+            ],
+            "placements": [
+                { "itemId": "6", "spriteId": "black0", "shelfId": "shelf_1", "targetSlotIndex": 0 },
+                { "itemId": "5", "spriteId": "black1", "shelfId": "shelf_1", "targetSlotIndex": 1 },
+                { "itemId": "4", "spriteId": "black2", "shelfId": "shelf_1", "targetSlotIndex": 2 },
+                { "itemId": "3", "spriteId": "black3", "shelfId": "shelf_1", "targetSlotIndex": 3 },
+                { "itemId": "6", "spriteId": "red0", "shelfId": "shelf_2", "targetSlotIndex": 0 },
+                { "itemId": "5", "spriteId": "red1", "shelfId": "shelf_2", "targetSlotIndex": 1 },
+                { "itemId": "4", "spriteId": "red2", "shelfId": "shelf_2", "targetSlotIndex": 2 },
+                { "itemId": "3", "spriteId": "red3", "shelfId": "shelf_2", "targetSlotIndex": 3 }
+            ]
+        },
+        {
+            "id": 10,
+            "tutorialId": "",
+            "shelves": [
+                {
+                    "shelfId": "shelf_1",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": 140 },
+                    "staticSlots": [
+                        { "index": 0, "isStatic": true }
+                    ],
+                    "rules": [ "TargetSlot" ]
+                },
+                {
+                    "shelfId": "shelf_2",
+                    "prefabId": "shelf",
+                    "position": { "x": 0, "y": -140 },
+                    "staticSlots": [
+                        { "index": 3, "isStatic": true }
+                    ],
+                    "rules": [ "TargetSlot" ]
+                }
+            ],
+            "placements": [
+                { "itemId": "6", "spriteId": "blue0", "shelfId": "shelf_1", "targetSlotIndex": 0 },
+                { "itemId": "5", "spriteId": "orange1", "shelfId": "shelf_1", "targetSlotIndex": 1 },
+                { "itemId": "4", "spriteId": "black2", "shelfId": "shelf_1", "targetSlotIndex": 2 },
+                { "itemId": "3", "spriteId": "red3", "shelfId": "shelf_1", "targetSlotIndex": 3 },
+                { "itemId": "3", "spriteId": "orange3", "shelfId": "shelf_2", "targetSlotIndex": 0 },
+                { "itemId": "4", "spriteId": "blue2", "shelfId": "shelf_2", "targetSlotIndex": 1 },
+                { "itemId": "5", "spriteId": "red1", "shelfId": "shelf_2", "targetSlotIndex": 2 },
+                { "itemId": "6", "spriteId": "black0", "shelfId": "shelf_2", "targetSlotIndex": 3 }
+            ]
+        }
+    ]
+}

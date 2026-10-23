@@ -1,0 +1,609 @@
+{
+    "levels": [
+        {
+            "id": 1,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [
+                {
+                    "shapeId": "Keys"
+                },
+                {
+                    "shapeId": "Honey"
+                },
+                {
+                    "shapeId": "Coins"
+                },
+                {
+                    "shapeId": "Mail"
+                },
+                {
+                    "shapeId": "Branch"
+                },
+                {
+                    "shapeId": "Keys"
+                },
+                {
+                    "shapeId": "Scroll"
+                },
+                {
+                    "shapeId": "Honey"
+                }
+            ],
+            "tutorialId": "tutorial_1",
+            "blockedCells": [
+                {
+                    "x": 2,
+                    "y": 1
+                },
+                {
+                    "x": 3,
+                    "y": 2
+                },
+                {
+                    "x": 2,
+                    "y": 4
+                },
+                {
+                    "x": 1,
+                    "y": 3
+                },
+                {
+                    "x": 4,
+                    "y": 4
+                },
+                {
+                    "x": 5,
+                    "y": 2
+                },
+                {
+                    "x": 4,
+                    "y": 0
+                },
+                {
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "freeCells": [],
+            "lastSolution": [
+                {
+                    "shapeId": "Keys",
+                    "origin": {
+                        "x": 2,
+                        "y": 2
+                    },
+                    "rotationIndex": 0,
+                    "placedCells": [
+                        {
+                            "x": 2,
+                            "y": 2
+                        },
+                        {
+                            "x": 2,
+                            "y": 3
+                        },
+                        {
+                            "x": 3,
+                            "y": 3
+                        }
+                    ]
+                },
+                {
+                    "shapeId": "Coins",
+                    "origin": {
+                        "x": 0,
+                        "y": 3
+                    },
+                    "rotationIndex": 0,
+                    "placedCells": [
+                        {
+                            "x": 0,
+                            "y": 3
+                        }
+                    ]
+                },
+                {
+                    "shapeId": "Mail",
+                    "origin": {
+                        "x": 0,
+                        "y": 2
+                    },
+                    "rotationIndex": 0,
+                    "placedCells": [
+                        {
+                            "x": 0,
+                            "y": 2
+                        },
+                        {
+                            "x": 1,
+                            "y": 2
+                        }
+                    ]
+                },
+                {
+                    "shapeId": "Keys",
+                    "origin": {
+                        "x": 3,
+                        "y": 4
+                    },
+                    "rotationIndex": 0,
+                    "placedCells": [
+                        {
+                            "x": 3,
+                            "y": 4
+                        },
+                        {
+                            "x": 3,
+                            "y": 5
+                        },
+                        {
+                            "x": 4,
+                            "y": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "gridWidth": 5,
+            "gridHeight": 5,
+            "shapes": [
+                {
+                    "shapeId": "Mail"
+                },
+                {
+                    "shapeId": "Scroll"
+                },
+                {
+                    "shapeId": "Coins"
+                }
+            ],
+            "tutorialId": "",
+            "blockedCells": [
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "freeCells": []
+        },
+        {
+            "id": 3,
+            "gridWidth": 5,
+            "gridHeight": 5,
+            "shapes": [
+                {
+                    "shapeId": "Honey"
+                },
+                {
+                    "shapeId": "InkBottle"
+                },
+                {
+                    "shapeId": "Keys"
+                },
+                {
+                    "shapeId": "Mail"
+                }
+            ],
+            "tutorialId": "",
+            "blockedCells": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 4,
+                    "y": 4
+                }
+            ],
+            "freeCells": []
+        },
+        {
+            "id": 4,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [
+                {
+                    "shapeId": "Book"
+                },
+                {
+                    "shapeId": "Scroll"
+                },
+                {
+                    "shapeId": "Compass"
+                },
+                {
+                    "shapeId": "InkBottle"
+                }
+            ],
+            "tutorialId": "",
+            "blockedCells": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "x": 5,
+                    "y": 0
+                },
+                {
+                    "x": 5,
+                    "y": 5
+                }
+            ],
+            "freeCells": []
+        },
+        {
+            "id": 5,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [
+                {
+                    "shapeId": "Amulet"
+                },
+                {
+                    "shapeId": "Honey"
+                },
+                {
+                    "shapeId": "Keys"
+                },
+                {
+                    "shapeId": "Scroll"
+                },
+                {
+                    "shapeId": "Coins"
+                }
+            ],
+            "tutorialId": "",
+            "blockedCells": [
+                {
+                    "x": 2,
+                    "y": 2
+                },
+                {
+                    "x": 3,
+                    "y": 3
+                }
+            ],
+            "freeCells": []
+        },
+        {
+            "id": 6,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [
+                {
+                    "shapeId": "Mail"
+                },
+                {
+                    "shapeId": "Mail"
+                },
+                {
+                    "shapeId": "Scroll"
+                },
+                {
+                    "shapeId": "Keys"
+                },
+                {
+                    "shapeId": "Honey"
+                }
+            ],
+            "tutorialId": "",
+            "blockedCells": [
+                {
+                    "x": 1,
+                    "y": 1
+                },
+                {
+                    "x": 4,
+                    "y": 4
+                }
+            ],
+            "freeCells": []
+        },
+        {
+            "id": 7,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [
+                {
+                    "shapeId": "Branch"
+                },
+                {
+                    "shapeId": "Compass"
+                },
+                {
+                    "shapeId": "Fluete"
+                },
+                {
+                    "shapeId": "InkBottle"
+                }
+            ],
+            "tutorialId": "",
+            "blockedCells": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 5,
+                    "y": 5
+                }
+            ],
+            "freeCells": []
+        },
+        {
+            "id": 8,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [
+                {
+                    "shapeId": "Book"
+                },
+                {
+                    "shapeId": "Amulet"
+                },
+                {
+                    "shapeId": "Keys"
+                },
+                {
+                    "shapeId": "Coins"
+                },
+                {
+                    "shapeId": "Mail"
+                }
+            ],
+            "tutorialId": "",
+            "blockedCells": [
+                {
+                    "x": 0,
+                    "y": 2
+                },
+                {
+                    "x": 5,
+                    "y": 3
+                }
+            ],
+            "freeCells": []
+        },
+        {
+            "id": 9,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [
+                {
+                    "shapeId": "Map"
+                },
+                {
+                    "shapeId": "Compass"
+                },
+                {
+                    "shapeId": "Feather"
+                },
+                {
+                    "shapeId": "Scroll"
+                },
+                {
+                    "shapeId": "InkBottle"
+                }
+            ],
+            "tutorialId": "",
+            "blockedCells": [
+                {
+                    "x": 2,
+                    "y": 3
+                },
+                {
+                    "x": 3,
+                    "y": 2
+                }
+            ],
+            "freeCells": []
+        },
+        {
+            "id": 10,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [
+                {
+                    "shapeId": "Book"
+                },
+                {
+                    "shapeId": "Honey"
+                },
+                {
+                    "shapeId": "Amulet"
+                },
+                {
+                    "shapeId": "Keys"
+                },
+                {
+                    "shapeId": "Mail"
+                },
+                {
+                    "shapeId": "Coins"
+                }
+            ],
+            "tutorialId": "",
+            "blockedCells": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 5,
+                    "y": 0
+                },
+                {
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "x": 5,
+                    "y": 5
+                }
+            ],
+            "freeCells": []
+        },
+        {
+            "id": 11,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 2
+        },
+        {
+            "id": 12,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 2
+        },
+        {
+            "id": 13,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 2
+        },
+        {
+            "id": 14,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 2
+        },
+        {
+            "id": 15,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 2
+        },
+        {
+            "id": 16,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 2
+        },
+        {
+            "id": 17,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 2
+        },
+        {
+            "id": 18,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 2
+        },
+        {
+            "id": 19,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 2
+        },
+        {
+            "id": 20,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 2
+        },
+        {
+            "id": 21,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 3
+        },
+        {
+            "id": 22,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 3
+        },
+        {
+            "id": 23,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 3
+        },
+        {
+            "id": 24,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 3
+        },
+        {
+            "id": 25,
+            "gridWidth": 6,
+            "gridHeight": 6,
+            "shapes": [],
+            "tutorialId": "",
+            "blockedCells": [],
+            "freeCells": [],
+            "chapter": 3
+        }
+    ]
+}
